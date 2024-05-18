@@ -17,8 +17,9 @@
 # StellarX: Unified Communication & Transactions
 
 - Combines communication & finance in one platform.
+- Affordable because - On chain (Authentication) and Off-chain (Messaging) through various External messaging apps
 - Enhances financial inclusion with secure transactions.
-- Empowers users with data control via decentralized storage.
+- Empowers users with data control via decentralized storage. (IPFS & FileCoin)
 
 
 ## Features
@@ -148,9 +149,5 @@ We welcome contributions! Please follow these steps to contribute:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Happy coding with STELLARX!
