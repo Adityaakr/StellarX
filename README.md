@@ -1,7 +1,6 @@
 # STELLARX
 
 Modular assest Sharing layer on Stellar
-![Preview](image.png)
 
 
 
