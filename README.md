@@ -19,7 +19,7 @@
 - Combines communication & finance in one platform.
 - Affordable On chain (Auth) & Transaction and Off-chain (Messaging) through various External messaging apps.
 - Enhances financial inclusion with secure transactions.
-- Empowers users with data control via decentralized storage. (IPFS & FileCoin)
+- Empowers users with data control via decentralized storage. (IPFS, FileCoin & Arweave)
 
 
 ## Features
