@@ -6,13 +6,13 @@ import 'twin.macro'
 import tw, { styled } from 'twin.macro'
 
 const StyledIconLink = styled(Link)(() => [
-  tw`opacity-90 transition-all hover:(-translate-y-0.5 opacity-100)`,
+  tw`bg-black`
 ])
 
 export const HomePageTitle: FC = () => {
-  const title = 'SOROCHAT'
-  const desc = 'Simple (not secure) chat app for Soroban.'
-  const githubHref = 'https://github.com/benjaminsalon/sorochat'
+  const title = 'StellarX'
+  const desc = 'Modular asset sharing layer built on the foundation of Stellar. '
+  const githubHref = 'https://github.com/Adityaakr'
 
   return (
     <>
@@ -22,30 +22,14 @@ export const HomePageTitle: FC = () => {
           href={githubHref}
           target="_blank"
           className="group"
-          tw="flex cursor-pointer items-center gap-4 rounded-3xl py-1.5 px-3.5 transition-all hover:bg-gray-900"
+          tw="absolute inset-x-0 top-0 h-16 flex cursor-pointer items-center gap-4 rounded-3xl py-1.5 px-3.5 transition-all"
         >
-          <h1 tw="font-black text-[2.5rem]">{title}</h1>
+          <div tw='font-bold text-5xl'>{title}</div>
+          <div tw='absolute mt-40
+          left-0 ml-5  '>{desc}</div>
+          {/* Insert content here */}
         </Link>
-        <p tw="mt-4 mb-6 text-gray-400">{desc}</p>
-
-
         {/* Github & Vercel Buttons */}
-        <div tw="flex space-x-2">
-          <StyledIconLink href={githubHref} target="_blank">
-            <Image src={githubIcon as string} priority height={32} alt="Github Repository" />
-          </StyledIconLink>
-          {/* <StyledIconLink href={deployHref} target="_blank">
-            <Image src={vercelIcon} priority height={32} alt="Deploy with Vercel" />
-          </StyledIconLink>
-          <StyledIconLink href={telegramHref} target="_blank">
-            <Image src={telegramIcon} priority height={32} alt="Telegram Group" />
-          </StyledIconLink>
-          <StyledIconLink href={sponsorHref} target="_blank">
-            <Image src={sponsorIcon} priority height={32} alt="Sponsor the Project" />
-          </StyledIconLink> */}
-        </div>
-
-        <div tw="my-14 w-14 bg-gray-800 h-[2px]" />
       </div>
     </>
   )

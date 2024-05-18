@@ -21,7 +21,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <DefaultSeo
         // dangerouslySetAllPagesToNoFollow={!env.isProduction}
         // dangerouslySetAllPagesToNoIndex={!env.isProduction}
-        defaultTitle="Sorochat" // TODO
+        defaultTitle="StellarX" // TODO
         titleTemplate="" // TODO
         description="Soroaban-based Smart Contract & DApp Development Boilerplate" // TODO
         openGraph={{

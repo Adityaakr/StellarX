@@ -209,7 +209,23 @@ export const GreeterContractInteractions: FC = () => {
                 isLoading={updateIsLoading}
               >
                 Submit
+                
               </Button>
+
+              <Button
+                type="submit"
+                mt={4}
+                colorScheme="purple"
+                isDisabled={updateIsLoading}
+                isLoading={updateIsLoading}
+              >Data</Button>
+              <Button
+                type="submit"
+                mt={4}
+                colorScheme="purple"
+                isDisabled={updateIsLoading}
+                isLoading={updateIsLoading}
+              >Image</Button>
             </Stack>
           </form>
         </Card>
