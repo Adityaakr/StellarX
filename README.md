@@ -2,7 +2,7 @@
 
 Foundation modular Asset Sharing Layer on Stellar
 
-![Preview][[Screencast from 18-05-24 04:34:33 PM IST.webm](https://github.com/Adityaakr/StellarX/assets/128833380/bf6e316e-7814-41d9-aafb-53cb743d4a4d)
+[Screencast from 18-05-24 04:34:33 PM IST.webm](https://github.com/Adityaakr/StellarX/assets/128833380/bf6e316e-7814-41d9-aafb-53cb743d4a4d)
 ]
 
 ## Overview
