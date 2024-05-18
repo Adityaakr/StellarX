@@ -10,14 +10,42 @@ Foundation modular Asset Sharing Layer on Stellar
 
 ## Overview
 
-**STELLARX** is a modular asset-sharing layer built on the Stellar blockchain. It allows users to seamlessly share, trade, and manage digital assets with enhanced security and scalability. This project leverages Stellar's robust network to offer fast and low-cost transactions, making it an ideal platform for decentralized applications.
+**StellarX** is a modular asset-sharing layer built on the Stellar blockchain. It allows users to seamlessly share, trade, and manage Messages and Transactions with enhanced security and scalability. This project leverages Stellar's robust network to offer fast and low-cost transactions, making it an ideal platform for decentralized applications.
+
+**Why we need StellarX**
+
+# StellarX: Unified Communication & Transactions
+
+- Combines communication & finance in one platform.
+- Enhances financial inclusion with secure transactions.
+- Empowers users with data control via decentralized storage.
+
 
 ## Features
 
 - **Modular Design**: Easily extend and customize functionalities to suit different needs.
 - **Secure Transactions**: Built on the Stellar network ensuring high security and reliability.
 - **Low-Cost Operations**: Take advantage of Stellar's low transaction fees.
-- **Scalable Infrastructure**: Designed to handle a growing number of transactions and users efficiently.
+- **Modular Scalable Infrastructure**: Designed to handle a growing number of transactions and users efficiently.
+
+**Technology Stack**
+
+* **Frontend Development:** soroban-react, Typescript , Nextjs , Chakra-UI
+* **Smart Contract Development:** Soroban SDK, Rust
+
+**Integration with soroban-react**
+
+This project utilizes soroban-react to establish a seamless connection between your React frontend and the Soroban smart contracts. soroban-react provides functionalities such as:
+
+* Connecting to a Soroban network
+* Interacting with deployed smart contracts
+* Managing user accounts and wallets
+
+**Getting Started**
+
+1. **Prerequisites:**
+    * Node.js and npm (or yarn) installed on your system
+    * A Soroban development environment set up (refer to Soroban documentation)
 
 ## Prerequisites
 
@@ -124,11 +152,5 @@ We welcome contributions! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or support, please reach out to the project maintainer at [your-email@example.com](mailto:your-email@example.com).
-
----
 
 Happy coding with STELLARX!
