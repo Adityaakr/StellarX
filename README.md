@@ -10,8 +10,7 @@ Modular assest Sharing layer on Stellar
 To build the dapp first clone the repo
 
 ```bash
-git clone https://github.com/benjaminsalon/sorochat.git
-```
+https://github.com/Adityaakr/StellarX.git```
 
 Then install dependencies using pnpm (or the equivalent commands with your favorite package manager)
 ```bash
