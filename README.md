@@ -1,15 +1,11 @@
-# SOROCHAT
+# STELLARX
 
-SOROCHAT is a nice little messaging dapp built on top of Soroban Testnet for demonstration purpose.
-
+Modular assest Sharing layer on Stellar
 ![Preview](image.png)
 
 
-[LIVE VERSION HERE 🕺](https://sorochat.vercel.app/)
 
-Built using the [@create-soroban-dapp](https://github.com/paltalabs/create-soroban-dapp/) boilerplate and script.
 
-sorochat-how-to-build-a-simple-chat-dapp-using-create-soroban-dapp-295l) explaining how to create the dapp on my dev.to 🚀
 ## Build and run
 
 To build the dapp first clone the repo
