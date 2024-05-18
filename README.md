@@ -72,23 +72,7 @@ To set up the STELLARX dApp on your local machine, follow these steps:
     ```bash
     yarn build
     ```
-
-5. **Start the local server**
-
-    Using pnpm:
-
-    ```bash
-    pnpm run start
-    ```
-
-    Alternatively, you can use npm or yarn:
-
-    ```bash
-    npm run start
-    ```
-
-## Development Server
-
+    
 To run the development server with experimental features, update the `package.json` file as follows:
 
 1. Open `package.json` in your favorite text editor.
