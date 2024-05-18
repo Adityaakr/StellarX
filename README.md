@@ -12,7 +12,7 @@ Foundation modular Asset Sharing Layer on Stellar
 
 **StellarX** is a modular asset-sharing layer built on the Stellar blockchain. It allows users to seamlessly share, trade, and manage Messages and Transactions with enhanced security and scalability. This project leverages Stellar's robust network to offer fast and low-cost transactions, making it an ideal platform for decentralized applications.
 
-**Why we need StellarX**
+**Why we need StellarX?**
 
 # StellarX: Unified Communication & Transactions
 
