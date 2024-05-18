@@ -2,7 +2,7 @@
 
 Modular Asset Sharing Layer on Stellar
 
-![Preview](image.png)
+![Preview]
 
 ## Overview
 
