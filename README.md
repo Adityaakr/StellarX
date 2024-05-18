@@ -31,7 +31,7 @@
 
 **Technology Stack**
 
-* **Frontend Development:** soroban-react, Typescript , Nextjs , Chakra-UI
+* **Frontend Development:** soroban-react, Typescript , Nextjs , Tailwind CSS
 * **Smart Contract Development:** Soroban SDK, Rust
 
 **Integration with soroban-react**
