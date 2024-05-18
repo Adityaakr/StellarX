@@ -9,7 +9,7 @@ SOROCHAT is a nice little messaging dapp built on top of Soroban Testnet for dem
 
 Built using the [@create-soroban-dapp](https://github.com/paltalabs/create-soroban-dapp/) boilerplate and script.
 
-You can find a written [tutorial](https://dev.to/benjaminsalon/sorochat-how-to-build-a-simple-chat-dapp-using-create-soroban-dapp-295l) explaining how to create the dapp on my dev.to 🚀
+sorochat-how-to-build-a-simple-chat-dapp-using-create-soroban-dapp-295l) explaining how to create the dapp on my dev.to 🚀
 ## Build and run
 
 To build the dapp first clone the repo
