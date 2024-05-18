@@ -137,7 +137,7 @@ To run the development server with experimental features, update the `package.js
 
 ## Usage
 
-Once the server is running, you can access the dApp via your browser at `http://localhost:3000`. From there, you can explore and interact with the various features of the STELLARX platform.
+Once the server is running, you can access the dApp via your browser at `http://localhost:3000`. From there, you can explore and interact with the various features of the StellarX platform.
 
 ## Contributing
 
